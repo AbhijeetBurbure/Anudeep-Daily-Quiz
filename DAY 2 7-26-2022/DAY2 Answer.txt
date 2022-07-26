@@ -1,0 +1,16 @@
+Q1] A
+Q2]D
+Q3]C
+Q4]A,D
+Q5]A
+Q6]B
+Q7]B
+Q8]C
+Q9]B
+Q10]B
+Q11]B
+Q12]A
+Q13]C
+Q14]A
+Q15]B
+Q16]C
